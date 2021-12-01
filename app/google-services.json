@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "910385821460",
+    "project_id": "sage-courier-333801",
+    "storage_bucket": "sage-courier-333801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910385821460:android:7b469b31bc081c8bca3401",
+        "android_client_info": {
+          "package_name": "com.app.appnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910385821460-mck7vh6ekhhf0deo157nri7v9j0t6qut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.appnews",
+            "certificate_hash": "9625bc186ca41b10fb96f7c64cb21234e19112ab"
+          }
+        },
+        {
+          "client_id": "910385821460-lga329ofm1qn8493g6ekcgh00kqlbess.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQG_Wg6yTQ4_UeDBoUgum4mzApBqsJwOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910385821460-lga329ofm1qn8493g6ekcgh00kqlbess.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
